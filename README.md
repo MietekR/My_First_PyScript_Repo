@@ -1,1 +1,1 @@
-https://mietekr.github.io/My_First_PyScript_Repo/
+https://mietekr.github.io/My_First_PyScript_Repo/index.html
